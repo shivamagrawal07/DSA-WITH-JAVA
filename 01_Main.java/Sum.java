@@ -1,13 +1,13 @@
-// import java.util.*;
+import java.util.*;
 
-// public class Sum {
-//     public static void main(String[] args) {
-//         Scanner input = new Scanner(System.in);
-//         int num1 = input.nextInt();
-//         int num2 = input.nextInt();
+public class Sum {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int num1 = input.nextInt();
+        int num2 = input.nextInt();
 
-//         int Sum = num1 + num2;
+        int Sum = num1 + num2;
 
-//         System.out.println("Sum ="+ Sum);
-//     }
-// }
+        System.out.println("Sum ="+ Sum);
+    }
+}
