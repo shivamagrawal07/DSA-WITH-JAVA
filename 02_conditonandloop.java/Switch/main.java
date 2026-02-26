@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String fruit = in.next();
@@ -47,3 +47,4 @@ public class Main {
         }
     }
 }
+
