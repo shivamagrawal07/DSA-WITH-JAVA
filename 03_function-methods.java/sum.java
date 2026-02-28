@@ -5,6 +5,9 @@ public class sum {
             sum();
     }
 
+    //reyturn the value
+    
+
     static void sum(){
         Scanner in = new Scanner(System.in);
         System.out.print("Enter number 1:");
